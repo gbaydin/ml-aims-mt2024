@@ -1,5 +1,5 @@
 # Machine Learning
-**AIMS CDT - Michaelmas Term 2023, Week 4**
+**AIMS CDT - Michaelmas Term 2024, Week 4**
 
 This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [Autonomous Intelligent Machines and Systems (AIMS)](https://aims.robots.ox.ac.uk/) CDT taught course at the University of Oxford.
 
@@ -24,8 +24,8 @@ In order to follow the practicals you need to have the following installed.
 Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install Pyro by running `!pip install pyro-ppl` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
-The demonstrators for the practicals are [Vít Růžička](https://previtus.github.io/) and Jonathan Carter.
+The demonstrators for the practicals are [Vít Růžička](https://previtus.github.io/) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
 
 ## Assessed assignment
 
-The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 6 November 2023**
+The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 11 November 2024**
