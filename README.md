@@ -3,7 +3,7 @@
 
 This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [Autonomous Intelligent Machines and Systems (AIMS)](https://aims.robots.ox.ac.uk/) CDT taught course at the University of Oxford.
 
-For more information please visit the [course web page](http://www.robots.ox.ac.uk/~gunes/teaching/ml-aims-mt2023.html).
+For more information please visit the [course web page](http://www.robots.ox.ac.uk/~gunes/teaching/ml-aims-mt2024.html).
 
 ## Practical sessions
 
